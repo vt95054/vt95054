@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Thakur
 - 👀 I’m interested in Artificial Intelligence and competitive programming
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on programming in c++
+- 💞️ I’m looking to collaborate on programming in c++ and Projects on Machine Learning
 - 📫 How to reach me : vt95054@gmail.com
 - 🧲 Languages - Python, c++
 
