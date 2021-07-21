@@ -6,7 +6,7 @@
 - 🧲 Languages - Python, c++
 
 PROJECTS:::
-https://github.com/vt95054/Yoga-Website-working-example.git
+https://vt95054.github.io/Yoga-Website-working-example/index.html
 
 <!---
 vt95054/vt95054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
