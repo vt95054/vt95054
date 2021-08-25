@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on programming in c++ and Projects on Machine Learning
 - 📫 How to reach me : vt95054@gmail.com
-- 🧲 Languages - Python, c++
+- 🧲 Languages - Python, c++, Java
 
 PROJECTS:::
 https://vt95054.github.io/Yoga-Website-working-example/index.html
